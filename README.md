@@ -14,5 +14,7 @@ This is a simple web projec, deployment
 can be on any web server or even local 
 file system.
 ## How to Contribute
-
+Pleaze fork a repo and then make changes  and PUll for
+reviews.
+##Copyright
 2023 Git.Training
