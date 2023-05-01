@@ -1,4 +1,4 @@
-#Start Web Project
+# Start Web Project
 ## Introduction 
-##Purpose
-##How to Contribute
+## Purpose
+## How to Contribute
